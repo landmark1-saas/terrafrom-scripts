@@ -1,4 +1,4 @@
-#My Provision an nginx server using Docker. from: https://learn.hashicorp.com/tutorials/terraform/install-cli
+# Provision an nginx server using Docker. from: https://learn.hashicorp.com/tutorials/terraform/install-cli (Mine)
 
 terraform {
   required_providers {
